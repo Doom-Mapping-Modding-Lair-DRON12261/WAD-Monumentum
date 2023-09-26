@@ -2,7 +2,7 @@
 
 # STATUS: ✅RELEASED
 
-# Actual screenshots:
+# Screenshots:
 ![Screen1](./screens/1.png)
 ![Screen2](./screens/2.png)
 ![Screen3](./screens/3.png)
